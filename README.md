@@ -1,5 +1,6 @@
 # French-bakery-daily-sales
 Forecast sales for a French bakery
+https://www.kaggle.com/datasets/matthieugimbert/french-bakery-daily-sales?resource=download
 
 About Dataset
 Context
